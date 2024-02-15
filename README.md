@@ -1,6 +1,6 @@
 # NBA-ML-Sports-Betting
 
-This is just a fun side project that I plan on doing during my 1B term. I will be using the follwoing packages in python to do the same:
+This is just a fun side project that I plan on doing during my 1B term. I will be using the following packages in python to do the same:
 * Tensorflow - Machine learning library
 * XGBoost - Gradient boosting framework
 * Numpy - Package for scientific computing in Python
